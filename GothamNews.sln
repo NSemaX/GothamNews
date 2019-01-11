@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GothamNews", "GothamNews\GothamNews.csproj", "{D12D0256-3CA1-4112-A18B-B0F88802FC0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{AAD6C102-261B-40A6-AE75-AC9E3FDD8DDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logging", "Logging", "{E64AED1C-F8C5-4E1F-A89A-0E157242EA17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E553E5B5-D273-4B79-8CF5-38CFA36CFBF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{5E8254BE-65DA-41E3-A5BB-2A1A103B9185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GothamNews.Services", "GothamNews.Services\GothamNews.Services.csproj", "{21661B13-4AEE-44C5-BAEC-9CC62B0FD604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GothamNews.Contracts", "GothamNews.Contracts\GothamNews.Contracts.csproj", "{65394B23-8306-41A3-B0BC-754B1A56F151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GothamNews.Repositories", "GothamNews.Repositories\GothamNews.Repositories.csproj", "{E0132B92-C275-45AB-8BEA-2F3D564ADFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GothamNews.Logging", "GothamNews.Logging\GothamNews.Logging.csproj", "{6D72C407-F42F-4FC0-9860-4D6AB40AD40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GothamNews.DependencyResolvers", "GothamNews.Installers\GothamNews.DependencyResolvers.csproj", "{6708074F-BB99-44FD-863B-93D13B2A2390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12D0256-3CA1-4112-A18B-B0F88802FC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12D0256-3CA1-4112-A18B-B0F88802FC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12D0256-3CA1-4112-A18B-B0F88802FC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12D0256-3CA1-4112-A18B-B0F88802FC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21661B13-4AEE-44C5-BAEC-9CC62B0FD604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21661B13-4AEE-44C5-BAEC-9CC62B0FD604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21661B13-4AEE-44C5-BAEC-9CC62B0FD604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21661B13-4AEE-44C5-BAEC-9CC62B0FD604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65394B23-8306-41A3-B0BC-754B1A56F151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65394B23-8306-41A3-B0BC-754B1A56F151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65394B23-8306-41A3-B0BC-754B1A56F151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65394B23-8306-41A3-B0BC-754B1A56F151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0132B92-C275-45AB-8BEA-2F3D564ADFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0132B92-C275-45AB-8BEA-2F3D564ADFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0132B92-C275-45AB-8BEA-2F3D564ADFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0132B92-C275-45AB-8BEA-2F3D564ADFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D72C407-F42F-4FC0-9860-4D6AB40AD40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D72C407-F42F-4FC0-9860-4D6AB40AD40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D72C407-F42F-4FC0-9860-4D6AB40AD40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D72C407-F42F-4FC0-9860-4D6AB40AD40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6708074F-BB99-44FD-863B-93D13B2A2390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6708074F-BB99-44FD-863B-93D13B2A2390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6708074F-BB99-44FD-863B-93D13B2A2390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6708074F-BB99-44FD-863B-93D13B2A2390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D12D0256-3CA1-4112-A18B-B0F88802FC0C} = {5E8254BE-65DA-41E3-A5BB-2A1A103B9185}
+		{21661B13-4AEE-44C5-BAEC-9CC62B0FD604} = {AAD6C102-261B-40A6-AE75-AC9E3FDD8DDA}
+		{65394B23-8306-41A3-B0BC-754B1A56F151} = {AAD6C102-261B-40A6-AE75-AC9E3FDD8DDA}
+		{E0132B92-C275-45AB-8BEA-2F3D564ADFFB} = {AAD6C102-261B-40A6-AE75-AC9E3FDD8DDA}
+		{6D72C407-F42F-4FC0-9860-4D6AB40AD40C} = {E64AED1C-F8C5-4E1F-A89A-0E157242EA17}
+		{6708074F-BB99-44FD-863B-93D13B2A2390} = {E553E5B5-D273-4B79-8CF5-38CFA36CFBF3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327F0190-5725-416F-91A3-BE1F8010A653}
+	EndGlobalSection
+EndGlobal

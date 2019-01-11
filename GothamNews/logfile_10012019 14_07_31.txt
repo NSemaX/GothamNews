@@ -1,0 +1,1 @@
+Response of GetNews is: System.Collections.Generic.List`1[GothamNews.Contracts.NewsItem]

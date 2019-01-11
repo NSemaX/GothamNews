@@ -1,0 +1,6 @@
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Contracts\bin\Debug\GothamNews.Contracts.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Contracts\bin\Debug\GothamNews.Contracts.pdb
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Contracts\obj\Debug\GothamNews.Contracts.csprojAssemblyReference.cache
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Contracts\obj\Debug\GothamNews.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Contracts\obj\Debug\GothamNews.Contracts.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Contracts\obj\Debug\GothamNews.Contracts.pdb

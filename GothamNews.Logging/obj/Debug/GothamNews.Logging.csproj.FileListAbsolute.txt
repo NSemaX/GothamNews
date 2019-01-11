@@ -1,0 +1,8 @@
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\bin\Debug\GothamNews.Logging.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\bin\Debug\GothamNews.Logging.pdb
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\bin\Debug\Castle.Core.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\bin\Debug\Castle.Core.xml
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\obj\Debug\GothamNews.Logging.csproj.CoreCompileInputs.cache
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\obj\Debug\GothamNews.Logging.csproj.CopyComplete
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\obj\Debug\GothamNews.Logging.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Logging\obj\Debug\GothamNews.Logging.pdb

@@ -1,0 +1,9 @@
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\bin\Debug\GothamNews.Repositories.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\bin\Debug\GothamNews.Repositories.pdb
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\bin\Debug\GothamNews.Contracts.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\bin\Debug\GothamNews.Contracts.pdb
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\obj\Debug\GothamNews.Repositories.csprojAssemblyReference.cache
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\obj\Debug\GothamNews.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\obj\Debug\GothamNews.Repositories.csproj.CopyComplete
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\obj\Debug\GothamNews.Repositories.dll
+C:\Users\nkudu\source\repos\GothamNews\GothamNews.Repositories\obj\Debug\GothamNews.Repositories.pdb
